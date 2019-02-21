@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+#chatWrapper {
+    float: left;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+#userWrapper {
+    float: left;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    background: #f4f4f4;
+    padding: 10px;
+    margin-left: 20px;
+    width: 150px;
+    max-height: 200px;
+}
+
+#namesWrapper {
+    float: left;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    background: #f4f4f4;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+input {
+    height: 30px;
+    border: solid 1px #ccc;
+}
